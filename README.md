@@ -1,2 +1,3 @@
 # curso-git
-respo para o curso de git da udemy
+repo para o curso de git da udemy
+[link](https://www.udemy.com/git-e-github-para-iniciantes/)
